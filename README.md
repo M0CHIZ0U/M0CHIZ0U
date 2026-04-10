@@ -1,3 +1,3 @@
-![Image](https://github.com/user-attachments/assets/19a57602-2c0a-4a83-aee8-8b8e8911c30e)
+<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/1d0c554d-32e3-4306-afc2-5d91f3a6707d" />
 
 [ATA](https://muffinhead.atabook.org/)
